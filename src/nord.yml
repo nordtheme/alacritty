@@ -1,18 +1,13 @@
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# title      Nord Alacritty                                    +
-# project    nord-alacritty                                    +
-# version    0.1.0                                             +
-# repository https://github.com/arcticicestudio/nord-alacritty +
-# author     Arctic Ice Studio                                 +
-# email      development@arcticicestudio.com                   +
-# copyright  Copyright (C) 2017                                +
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#
-# [Resources]
-# Nord
-#   https://github.com/arcticicestudio/nord
-# Alacritty
+# Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
+# Copyright (c) 2017-present Sven Greb <code@svengreb.de>
+
+# Project:    Nord Alacritty
+# Version:    0.1.0
+# Repository: https://github.com/arcticicestudio/nord-alacritty
+# License:    MIT
+# References:
 #   https://github.com/jwilm/alacritty
+
 colors:
   primary:
     background: '0x2E3440'
