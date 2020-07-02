@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord-alacritty/develop/assets/nord-alacritty-banner.svg"/></p>
 
-<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-alacritty/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-alacritty.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0_+-88C0D0.svg?style=flat-square"/></a></p>
+<p align="center"><a href="https://github.com/arcticicestudio/nord-alacritty/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-alacritty.svg?style=flat-square&color=88C0D0&label=Release"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0_+-88C0D0.svg?style=flat-square"/></a></p>
 
 <p align="center"><a href="https://github.com/arcticicestudio/nord-alacritty/blob/v0.1.0/CHANGELOG.md"><img src="https://img.shields.io/badge/Changelog-0.1.0-81A1C1.svg?style=flat-square"/></a></p>
 
@@ -30,7 +30,7 @@ If `live_config_reload` is set to `true` the colors are applied immediately, oth
 
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/arcticicestudio/nord-alacritty/issues).
 
-<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord/develop/src/assets/banner-footer-mountains.svg" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 
 <p align="center">Copyright &copy; 2017-present Arctic Ice Studio</p>
 
