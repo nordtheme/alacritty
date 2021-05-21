@@ -56,3 +56,10 @@ colors:
     magenta: '#8c738c'
     cyan: '#6d96a5'
     white: '#aeb3bb'
+  hints:
+    start:
+      foreground: CellBackground
+      background: '#88c0d0'
+    end:
+      foreground: '#d8dee9'
+      background: '#434c5e'
