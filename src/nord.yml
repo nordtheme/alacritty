@@ -1,40 +1,58 @@
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# title      Nord Alacritty                                    +
-# project    nord-alacritty                                    +
-# version    0.1.0                                             +
-# repository https://github.com/arcticicestudio/nord-alacritty +
-# author     Arctic Ice Studio                                 +
-# email      development@arcticicestudio.com                   +
-# copyright  Copyright (C) 2017                                +
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#
-# [Resources]
-# Nord
-#   https://github.com/arcticicestudio/nord
-# Alacritty
-#   https://github.com/jwilm/alacritty
+# Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
+# Copyright (c) 2017-present Sven Greb <code@svengreb.de>
+
+# Project:    Nord Alacritty
+# Version:    0.1.0
+# Repository: https://github.com/arcticicestudio/nord-alacritty
+# License:    MIT
+# References:
+#   https://github.com/alacritty/alacritty
+
 colors:
   primary:
-    background: '0x2E3440'
-    foreground: '0xD8DEE9'
+    background: '#2e3440'
+    foreground: '#d8dee9'
+    dim_foreground: '#a5abb6'
   cursor:
-    text: '0x2E3440'
-    cursor: '0xD8DEE9'
+    text: '#2e3440'
+    cursor: '#d8dee9'
+  vi_mode_cursor:
+    text: '#2e3440'
+    cursor: '#d8dee9'
+  selection:
+    text: CellForeground
+    background: '#4c566a'
+  search:
+    matches:
+      foreground: CellBackground
+      background: '#88c0d0'
+    bar:
+      background: '#434c5e'
+      foreground: '#d8dee9'
   normal:
-    black: '0x3B4252'
-    red: '0xBF616A'
-    green: '0xA3BE8C'
-    yellow: '0xEBCB8B'
-    blue: '0x81A1C1'
-    magenta: '0xB48EAD'
-    cyan: '0x88C0D0'
-    white: '0xE5E9F0'
+    black: '#3b4252'
+    red: '#bf616a'
+    green: '#a3be8c'
+    yellow: '#ebcb8b'
+    blue: '#81a1c1'
+    magenta: '#b48ead'
+    cyan: '#88c0d0'
+    white: '#e5e9f0'
   bright:
-    black: '0x4C566A'
-    red: '0xBF616A'
-    green: '0xA3BE8C'
-    yellow: '0xEBCB8B'
-    blue: '0x81A1C1'
-    magenta: '0xB48EAD'
-    cyan: '0x8FBCBB'
-    white: '0xECEFF4'
+    black: '#4c566a'
+    red: '#bf616a'
+    green: '#a3be8c'
+    yellow: '#ebcb8b'
+    blue: '#81a1c1'
+    magenta: '#b48ead'
+    cyan: '#8fbcbb'
+    white: '#eceff4'
+  dim:
+    black: '#373e4d'
+    red: '#94545d'
+    green: '#809575'
+    yellow: '#b29e75'
+    blue: '#68809a'
+    magenta: '#8c738c'
+    cyan: '#6d96a5'
+    white: '#aeb3bb'
