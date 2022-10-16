@@ -26,7 +26,9 @@ colors:
     matches:
       foreground: CellBackground
       background: '#88c0d0'
-    footer_bar:
+    # This key is deprecated as of Alacritty version 0.11.0 and will be removed accordingly within the next versions.
+    # See https://github.com/alacritty/alacritty/releases/tag/v0.11.0 for details.
+    bar:
       background: '#434c5e'
       foreground: '#d8dee9'
   normal:
